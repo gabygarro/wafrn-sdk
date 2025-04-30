@@ -1,5 +1,5 @@
 export type Options = {
   token: string;
-  parent?: number;
+  parent?: string;
   privacy?: number;
 }
